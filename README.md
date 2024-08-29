@@ -10,9 +10,9 @@ You can access the live web application here: [Emotional-AI-Trainer Web Applicat
 ## Team Members
 
 - **Morad Asaakli** 
-- **Shadi** 
-- **Aneel** 
-- **Raaed**
+- **Shadi Abureesh** 
+- **Aneel Salameh** 
+- **Raaed Haddad**
 
 ## Project Overview
 
