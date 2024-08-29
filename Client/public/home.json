@@ -1,0 +1,82 @@
+{
+  "title": "Unlock the power of emotional intelligence",
+  "description": "Build lasting emotional resilience and enhance your personal and professional relationships with our comprehensive emotional intelligence training.",
+  "ctaText": "Start Emotional Trainer",
+  "sections": [
+    {
+      "title": "What You'll Learn",
+      "items": [
+        {
+          "title": "Gain Emotional Mastery",
+          "description": "Learn how to identify and manage your emotions, leading to greater emotional stability and resilience."
+        },
+        {
+          "title": "Elevate Your Happiness",
+          "description": "By increasing your emotional intelligence, you will unlock new levels of happiness and satisfaction in your life."
+        },
+        {
+          "title": "Support and Empower Others",
+          "description": "Discover how to use your enhanced emotional intelligence to uplift others, fostering stronger, more supportive relationships."
+        },
+        {
+          "title": "Strengthen Relationships",
+          "description": "Improve your interpersonal connections through the application of advanced emotional intelligence techniques, ensuring healthier and more fulfilling relationships."
+        }
+      ]
+    },
+    {
+      "title": "Description",
+      "items": [
+        {
+          "title": "Signing In or Registering",
+          "description": "New users can quickly sign up by providing basic information such as name, email, and a password. If you already have an account, simply sign in with your credentials to access the platform. We ensure that your data is protected with industry-standard encryption methods, so you can rest easy knowing your information is safe."
+        },
+        {
+          "title": "Taking the Emotional Intelligence Exam",
+          "description": "Once signed in, users are invited to take our detailed emotional intelligence exam. This assessment is designed to gauge your current level of emotional intelligence across several key areas, such as self-awareness, empathy, and emotional regulation. The exam includes a variety of question types, including multiple-choice, scenario-based questions, and reflective prompts, to accurately assess your emotional capabilities."
+        },
+        {
+          "title": "Viewing Your Results",
+          "description": "After completing the exam, users receive instant feedback with a detailed breakdown of their emotional intelligence scores in various categories. Along with your scores, you’ll receive personalized insights and recommendations on areas for improvement. These insights are designed to help you understand your emotional strengths and areas where you can grow."
+        },
+        {
+          "title": "Starting Your Training",
+          "description": "This program includes exercises, activities, and resources aimed at improving your emotional intelligence in targeted areas. Each training module is interactive and engaging, featuring activities that encourage self-reflection, scenario-based learning, and practical application of emotional intelligence skills. As you work through the training, the platform tracks your progress and provides ongoing feedback to help you stay on track and continue improving."
+        },
+        {
+          "title": "Score Interpretation",
+          "description": "Your emotional intelligence score is interpreted as follows:\n❤️ (score = 0): You are at the very beginning of your emotional intelligence journey. There's a lot of room to grow and improve.\n😢 (score 10-20): Your emotional intelligence is low. You may struggle with recognizing and managing emotions, both in yourself and in others.\n😞 (score 21-40): Your emotional intelligence is below average. You may have some understanding of emotions but find it challenging to apply this understanding effectively.\n😟 (score 41-60): Your emotional intelligence is average. You can recognize emotions but might find it difficult to regulate them consistently.\n🙂 (score 61-80): Your emotional intelligence is above average. You are good at understanding and managing emotions but can still improve in certain areas.\n😃 (score 81-100): Your emotional intelligence is excellent. You have a strong ability to understand and manage emotions effectively.\n😶: No score available or the score does not fall into any category."
+        }
+      ]
+    },
+    {
+      "title": "Course Reviews",
+      "items": [
+        {
+          "name": "Sarah J.",
+          "rating": 5,
+          "date": "2 weeks ago",
+          "comment": "This platform has truly transformed the way I interact with others. The insights and tools I've gained have helped me build stronger relationships and navigate complex social situations with ease."
+        },
+        {
+          "name": "Michael B.",
+          "rating": 5,
+          "date": "1 month ago",
+          "comment": "The Emotional Intelligence Trainer has been a game-changer for me. I've learned so much about myself and how to better manage my emotions. I can't recommend it enough!"
+        },
+        {
+          "name": "Emily R.",
+          "rating": 4,
+          "date": "3 weeks ago",
+          "comment": "I was skeptical at first, but this platform really delivers. The practical exercises and personalized feedback have made a noticeable difference in my daily life."
+        },
+        {
+          "name": "James T.",
+          "rating": 5,
+          "date": "2 months ago",
+          "comment": "An outstanding resource for anyone looking to improve their EQ. The lessons are clear, and the community is incredibly supportive. I'm so glad I found this platform!"
+        }
+      ]
+    }
+  ]
+}

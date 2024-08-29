@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.690da449.css",
+    "main.js": "/static/js/main.0a8f1467.js",
+    "static/media/sadtohappy.png": "/static/media/sadtohappy.d504c99d2982ac146603.png",
+    "static/media/logo.png": "/static/media/logo.85042b59ace80f427f46.png",
+    "static/media/signIn.jpeg": "/static/media/signIn.99e273684aef1c45fe0a.jpeg",
+    "index.html": "/index.html",
+    "main.690da449.css.map": "/static/css/main.690da449.css.map",
+    "main.0a8f1467.js.map": "/static/js/main.0a8f1467.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.690da449.css",
+    "static/js/main.0a8f1467.js"
+  ]
+}

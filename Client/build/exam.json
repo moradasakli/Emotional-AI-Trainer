@@ -1,0 +1,156 @@
+{
+  "options": [
+    { "text": "Most Often", "grade": 5 },
+    { "text": "Often", "grade": 4 },
+    { "text": "Sometimes", "grade": 3 },
+    { "text": "Rarely", "grade": 2 },
+    { "text": "Very Rarely", "grade": 1 }
+  ],
+  "questions": [
+    {
+      "category": "Secure",
+      "text": "I am most often in situations that feel calm."
+    },
+	  {
+      "category": "Secure",
+      "text": "I feel protected from threats or harm."
+    },
+	  {
+      "category": "Secure",
+      "text": "I feel respected for who I am."
+    },
+		{
+      "category": "Secure",
+      "text": "I feel included when I am being myself."
+    },
+		{
+      "category": "Secure",
+      "text": "I can count on people around me to do what they say they will do."
+    },
+		{
+      "category": "Secure",
+      "text": "People, including me, are treated fairly."
+    },
+	
+	
+	
+  {
+      "category": "Regulated",
+      "text": "I can be fully attentive to my surroundings."
+    },  
+	{
+      "category": "Regulated",
+      "text": "I am regularly exposed to nature and clean air."
+    },  
+	{
+      "category": "Regulated",
+      "text": "I feel alert and energized most of the time."
+    },  
+	{
+      "category": "Regulated",
+      "text": "The sights, sounds, touches, tastes and smells in my environment are manageable."
+    },  
+	{
+      "category": "Regulated",
+      "text": "I can remain calm and clear-headed in a stressful situation."
+    },  
+	{
+      "category": "Regulated",
+      "text": "I follow routines that benefit my energy, focus and mood."
+    },
+
+
+
+
+	{
+      "category": "Valuable",
+      "text": "Most of what I do, each day, interests me."
+    },
+		{
+      "category": "Valuable",
+      "text": "I spend my time in ways that I find important."
+    },
+		{
+      "category": "Valuable",
+      "text": "I build strong bonds when working with others toward a common goal."
+    },
+		{
+      "category": "Valuable",
+      "text": "Things I do have a meaningful impact."
+    },
+		{
+      "category": "Valuable",
+      "text": "I apply feedback from others to better myself."
+    },
+		{
+      "category": "Valuable",
+      "text": "I have people in my life that I care about and who care about me."
+    },
+
+
+
+
+	{
+      "category": "Decided",
+      "text": "I intend good things to come out of the choices I make."
+    },
+		{
+      "category": "Decided",
+      "text": "I usually behave in a way that I am proud of."
+    },
+		{
+      "category": "Decided",
+      "text": "I make habits out of things that are good for me."
+    },
+		{
+      "category": "Decided",
+      "text": "I can plan, organize and complete the steps toward a goal."
+    },
+		{
+      "category": "Decided",
+      "text": "I can apply the energy it takes to complete my goals."
+    },
+		{
+      "category": "Decided",
+      "text": "I carefully consider how my decisions may be influenced by others."
+    },
+
+
+
+
+	{
+      "category": "Related",
+      "text": "I can easily build a positive connection with new people."
+    },
+		{
+      "category": "Related",
+      "text": "I can understand what is expected of me in different situations."
+    },
+		{
+      "category": "Related",
+      "text": "I can listen to understand others different opinions with patience."
+    },
+		{
+      "category": "Related",
+      "text": "I can come to an agreement with others most of the time."
+    },
+		{
+      "category": "Related",
+      "text": "I can express my thoughts and feelings to others."
+    },
+		{
+      "category": "Related",
+      "text": "I feel I have shared power with others."
+    },
+
+		{
+      "category": "Other",
+      "text": "The questions in this survey were all clearly understood."
+    }, 
+    {
+      "category": "Other",
+      "text": "I felt comfortable answering all of the questions in this survey."
+    }
+  
+  ]
+}
