@@ -9,10 +9,10 @@ You can access the live web application here: [Emotional-AI-Trainer Web Applicat
 
 ## Team Members
 
-- **Morad Asaakla** - ID: 315688069
-- **Shadi** - ID: 208658898
-- **Aneel** - ID: 316198522
-- **Raaed** - ID: 207075383
+- **Morad Asaakli** 
+- **Shadi** 
+- **Aneel** 
+- **Raaed**
 
 ## Project Overview
 
