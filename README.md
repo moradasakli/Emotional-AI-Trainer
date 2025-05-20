@@ -12,7 +12,7 @@ You can access the live web application here: [Emotional-AI-Trainer Web Applicat
 - **Morad Asaakli** 
 - **Shadi Abureesh** 
 - **Aneel Salameh** 
-- **Raaed Haddad**
+- **Raed Haddad**
 
 ## Project Overview
 
